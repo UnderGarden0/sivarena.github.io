@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Sivareña Pizzas</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link href="css/menu.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+</head>
+<body>
+    <header>
+		<div id="nav-phone">
+			<a href="index.html">
+				<img id="logo-phone" src="images/logo-png-sivarena.png" alt="Sivareña logo"></a>
+			<button class="open-menu">
+				<img src="images/nav-botton.svg" alt="hamburguesa">
+			</button>
+		</div>
+		<aside>
+			<div class="aside-container">
+				<div>
+					<img src="images/logo-png-sivarena.png" alt="" class="logo-phone">
+					<button>
+						<img src="images/x.svg" alt="#" class="close-menu" width="32px">
+					</button>
+				</div>	
+				<a href="nuestra_historia.html">HISTORIA</a>
+				<a href="sucursales.html">SUCURSALES</a>
+				<a href="menu.html">MENÚ</a>
+				<a href="carrito.html"><p>ORDEN<span id="numerito">0</span></p></a>
+			</div>
+		</aside>
+		<div id="nav">
+			<div class="left">
+				<a href="nuestra_historia.html">HISTORIA</a>
+				<a href="sucursales.html">SUCURSALES</a>
+			</div>
+			<a href="index.html">
+				<img src="images/logo-png-sivarena.png" alt="Sivareña logo"></a>
+			<div class="right">
+				<a href="menu.html">MENÚ</a>
+				<a href="carrito.html"><p>ORDEN<span id="numerito">0</span></p></a>
+			</div>
+		</div>
+	</header>
+    <main>
+        <h3 class="titulo-principal">Orden</h3>
+        <div class="contenedor-carrito">
+            <p id="carrito-vacio" class="carrito-vacio">Tu orden esta vacía.<img src="images/productos/emoji.png" width=24px height=24px alt="#"></p>
+
+            <div id="carrito-productos" class="carrito-productos disabled">
+                <!-- JS -->
+                
+            </div>
+
+            <div id="carrito-acciones" class="carrito-acciones disabled">
+                <div class="carrito-acciones-izquierda">
+                    <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
+                </div>
+                <div class="carrito-acciones-derecha">
+                    <div class="carrito-acciones-total">
+                        <p>Total:</p>
+                        <p id="total">$3000</p>
+                    </div>
+                    <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Comprar ahora</button>
+                </div>
+            </div>
+
+            <p id="carrito-comprado" class="carrito-comprado disabled">Muchas gracias por tu compra. <img src="images/productos/emoji2.png" width=24px height=24px alt="#"></p>
+
+        </div>
+    </main>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/carrito.js"></script>
+    <script src="./js/menu.js"></script>
+
+</body>
+</html>

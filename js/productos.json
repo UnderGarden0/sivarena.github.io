@@ -1,0 +1,503 @@
+[
+    {
+        "id": "jamon",
+        "título": "Pizza de jamón",
+        "imagen": "images/productos/tradicionales/jamon.jpg",
+        "categoria": {
+            "nombre": "Pizzas tradicionales",
+            "id": "tradicionales"
+        },
+        "precio": "7.00"
+    },
+    {
+        "id": "pepperoni",
+        "título": "Pizza de pepperoni",
+        "imagen": "images/productos/tradicionales/pepperoni.jpg",
+        "categoria": {
+            "nombre": "Pizzas tradicionales",
+            "id": "tradicionales"
+        },
+        "precio": "7.00"
+    },
+    {
+        "id": "champiñones",
+        "título": "Pizza de champiñones",
+        "imagen": "images/productos/tradicionales/champiñones.jpg",
+        "categoria": {
+            "nombre": "Pizzas tradicionales",
+            "id": "tradicionales"
+        },
+        "precio": "7.00"
+    },
+    {
+        "id": "margarita",
+        "título": "Pizza de margarita",
+        "imagen": "images/productos/tradicionales/margarita.jpg",
+       "categoria": {
+            "nombre": "Pizzas tradicionales",
+            "id": "tradicionales"
+        },
+        "precio": "7.00"
+    },
+    {
+        "id": "queso",
+        "título": "Pizza de queso",
+        "imagen": "images/productos/tradicionales/queso.jpg",
+        "categoria": {
+            "nombre": "Pizzas tradicionales",
+            "id": "tradicionales"
+        },
+        "precio": "7.00"
+    },
+    {
+        "id": "coqueta",
+        "título": "Pizza Coqueta",
+        "imagen": "images/productos/especiales/coqueta.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "8.00"
+    },
+    {
+        "id": "clasica",
+        "título": "Pizza Clásica",
+        "imagen": "images/productos/especiales/clasica.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "8.00"
+    },
+    {
+        "id": "maciza",
+        "título": "Pizza Maciza",
+        "imagen": "images/productos/especiales/maciza.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "7.50"
+    },
+    {
+        "id": "reina-margarita",
+        "título": "Pizza Reina Margarita",
+        "imagen": "images/productos/especiales/reina-margarita.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "8.75"
+    },
+    {
+        "id": "veggisima",
+        "título": "Pizza Veggisima",
+        "imagen": "images/productos/especiales/veggisima.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "grosera",
+        "título": "Pizza Grosera",
+        "imagen": "images/productos/especiales/grosera.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.50"
+    },
+    {
+        "id": "teniente-dan",
+        "título": "Pizza Teniente Dan",
+        "imagen": "images/productos/especiales/teniente-dan.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "14.00"
+    },
+    {
+        "id": "bubba-gump",
+        "título": "Pizza Bubba Gump",
+        "imagen": "images/productos/especiales/bubba-gump.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "12.50"
+    },
+    {
+        "id": "modera",
+        "título": "Pizza Módera",
+        "imagen": "images/productos/especiales/modera.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "12.00"
+    },
+    {
+        "id": "don-peppe",
+        "título": "Pizza Don Peppe",
+        "imagen": "images/productos/especiales/don-peppe.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "9.00"
+    },
+    {
+        "id": "super-sivarena",
+        "título": "Pizza Super Sivareña",
+        "imagen": "images/productos/especiales/super-sivareña.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "maui",
+        "título": "Pizza Maui",
+        "imagen": "images/productos/especiales/maui.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "9.00"
+    },
+    {
+        "id": "choripizza",
+        "título": "Pizza Teniente Dan",
+        "imagen": "images/productos/especiales/teniente-dan.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "9.00"
+    },
+    {
+        "id": "hawaiana",
+        "título": "Pizza Hawaiana",
+        "imagen": "images/productos/especiales/hawaiana.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "7.50"
+    },
+    {
+        "id": "vieja-confiable",
+        "título": "Pizza Vieja Confiable",
+        "imagen": "images/productos/especiales/vieja-confiable.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "8.00"
+    },
+    {
+        "id": "pecadora",
+        "título": "Pizza Pecadora",
+        "imagen": "images/productos/especiales/pecadora.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.50"
+    },
+    {
+        "id": "listo",
+        "título": "Pizza No te pases de listo",
+        "imagen": "images/productos/especiales/listo.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "hawaii-5",
+        "título": "Pizza Hawaii 5-0",
+        "imagen": "images/productos/especiales/hawaii-5.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.50"
+    },
+    {
+        "id": "de-cancha",
+        "título": "Pizza De Cancha",
+        "imagen": "images/productos/especiales/de-cancha.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "7.50"
+    },
+    {
+        "id": "partisana-vegana",
+        "título": "Pizza Partisana Vegana",
+        "imagen": "images/productos/especiales/partisana-vegana.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "9.00"
+    },
+    {
+        "id": "bianca",
+        "título": "Pizza Bianca",
+        "imagen": "images/productos/especiales/bianca.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "aquella",
+        "título": "Pizza Aquella",
+        "imagen": "images/productos/especiales/aquella.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.00"
+    },
+    {
+        "id": "parrillera",
+        "título": "Pizza Parrillera",
+        "imagen": "images/productos/especiales/parrillera.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "11.00"
+    },
+    {
+        "id": "vivaldi",
+        "título": "Pizza Vivaldi",
+        "imagen": "images/productos/especiales/vivaldi.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "10.50"
+    },
+    {
+        "id": "bocaccia",
+        "título": "Pizza A la Bocaccia",
+        "imagen": "images/productos/especiales/bocaccia.jpg",
+        "categoria": {
+            "nombre": "Pizzas especiales",
+            "id": "especiales"
+        },
+        "precio": "7.50"
+    },
+    {
+        "id": "pan-ajo",
+        "título": "Pan con ajo",
+        "imagen": "images/productos/entradas/pan-con-ajo.jpg",
+        "categoria": {
+            "nombre": "Entradas",
+            "id": "entradas"
+        },
+        "precio": "3.00"
+    },
+    {
+        "id": "bruschetas-champiñones",
+        "título": "Bruschetas con champiñones",
+        "imagen": "images/productos/entradas/bruschetas-champiñones.jpg",
+        "categoria": {
+            "nombre": "Entradas",
+            "id": "entradas"
+        },
+        "precio": "3.50"
+    },
+    {
+        "id": "bruschetas-quesoazul",
+        "título": "Bruschetas con queso azul",
+        "imagen": "images/productos/entradas/bruschetas-quesoazul.jpg",
+        "categoria": {
+            "nombre": "Entradas",
+            "id": "entradas"
+        },
+        "precio": "4.00"
+    },
+    {
+        "id": "bruschetas-tocino",
+        "título": "Bruschetas de tocino",
+        "imagen": "images/productos/entradas/bruschetas-tocino.jpg",
+        "categoria": {
+            "nombre": "Entradas",
+            "id": "entradas"
+        },
+        "precio": "4.00"
+    },
+    {
+        "id": "bruschetas-capresse",
+        "título": "Bruschetas Capresse",
+        "imagen": "images/productos/entradas/bruschetas-capresse.jpg",
+        "categoria": {
+            "nombre": "Entradas",
+            "id": "entradas"
+        },
+        "precio": "3.50"
+    },
+    {
+        "id": "soda",
+        "título": "Soda en lata",
+        "imagen": "images/productos/entradas/soda.jpg",
+        "categoria": {
+            "nombre": "Bebidas sin alcohol",
+            "id": "no-alcohol"
+        },
+        "precio": "1.25"
+    },
+    {
+        "id": "agua-mineral",
+        "título": "Agua mineral",
+        "imagen": "images/productos/entradas/agua-mineral.jpg",
+        "categoria": {
+            "nombre": "Bebidas sin alcohol",
+            "id": "no-alcohol"
+        },
+        "precio": "1.25"
+    },
+    {
+        "id": "te-helado",
+        "título": "Té helado",
+        "imagen": "images/productos/entradas/te-helado.jpg",
+        "categoria": {
+            "nombre": "Bebidas sin alcohol",
+            "id": "no-alcohol"
+        },
+        "precio": "1.25"
+    },
+    {
+        "id": "refresco",
+        "título": "Refresco natural",
+        "imagen": "images/productos/entradas/refresco.jpg",
+        "categoria": {
+            "nombre": "Bebidas sin alcohol",
+            "id": "no-alcohol"
+        },
+        "precio": "1.75"
+    },
+    {
+        "id": "kombucha",
+        "título": "Kombucha",
+        "imagen": "images/productos/entradas/kombucha.jpg",
+        "categoria": {
+            "nombre": "Bebidas sin alcohol",
+            "id": "no-alcohol"
+        },
+        "precio": "3.50"
+    },
+    {
+        "id": "agua-botella",
+        "título": "Botella de agua",
+        "imagen": "images/productos/entradas/agua-botella.jpg",
+        "categoria": {
+            "nombre": "Bebidas sin alcohol",
+            "id": "no-alcohol"
+        },
+        "precio": "1.00"
+    },
+    {
+        "id": "regia",
+        "título": "Regia Chola",
+        "imagen": "images/productos/entradas/regia.jpg",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "2.75"
+    },
+    {
+        "id": "pilsener",
+        "título": "Pilsener Chola",
+        "imagen": "images/productos/entradas/pilsener.jpg",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "2.75"
+    },
+    {
+        "id": "golden",
+        "título": "Golden Chola",
+        "imagen": "images/productos/entradas/golden.jpg",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "2.75"
+    },
+    {
+        "id": "golden-extra",
+        "título": "Golden Extra Chola",
+        "imagen": "images/productos/entradas/golden-extra.png",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "2.75"
+        
+    },
+    {
+        "id": "suprema",
+        "título": "Suprema",
+        "imagen": "images/productos/entradas/suprema.jpg",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "1.75"
+    },
+    {
+        "id": "corona",
+        "título": "Corona Chola",
+        "imagen": "images/productos/entradas/corona.jpg",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "2.00"
+    },
+    {
+        "id": "michelob-ultra",
+        "título": "Michelob Ultra",
+        "imagen": "images/productos/entradas/michelob-ultra.jpg",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "2.00"
+    },
+    {
+        "id": "michelada",
+        "título": "Mix de michelada",
+        "imagen": "images/productos/entradas/michelada.jpg",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "2.00"
+    },
+    {
+        "id": "hamaca",
+        "título": "Cerveza Hamaca",
+        "imagen": "images/productos/entradas/hamaca.jpeg",
+        "categoria": {
+            "nombre": "Bebidas con alcohol",
+            "id": "alcohol"
+        },
+        "precio": "3.00"
+    }
+]
