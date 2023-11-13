@@ -176,7 +176,7 @@ a.boton:hover{
 	text-align: center;
 }
 
-header{
+#header{
 	width: 100vw;
 	position: fixed;
 	z-index: 10;
