@@ -664,7 +664,7 @@ aside span{
 	justify-content: center;
 	align-items: center;
 }
-}
+
 #seccion1{
 	margin-top: -40px;
 	background-image: url("../images/sucur.jpg");
@@ -932,4 +932,4 @@ float: left;
 	position:absolute;
 	padding-top: 0px;
 }
-
+}

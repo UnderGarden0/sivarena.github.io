@@ -27,7 +27,7 @@
 				<a href="nuestra_historia.html">HISTORIA</a>
 				<a href="sucursales.html">SUCURSALES</a>
 				<a href="menu.html">MENÚ</a>
-				<a href="carrito.html"><p>ORDEN<span id="numerito">0</span></p></a>
+				<a href="carrito.html"><p>ORDEN<span id="numerito" numerito>0</span></p></a>
 			</div>
 		</aside>
 		<div id="nav">
@@ -39,7 +39,7 @@
 				<img src="images/logo-png-sivarena.png" alt="Sivareña logo"></a>
 			<div class="right">
 				<a href="menu.html">MENÚ</a>
-				<a href="carrito.html"><p>ORDEN<span id="numerito">0</span></p></a>
+				<a href="carrito.html"><p>ORDEN<span id="numerito" numerito>0</span></p></a>
 			</div>
 		</div>
 	</header>
@@ -96,22 +96,29 @@
 			<h3>Nuestras pizzas</h3>
 			<a href="menu.html" class="boton">Ver menú completo</a>
 		</div>
-		<div class="smallarticles">
-			<div class="small-article">
-				<img src="images/bellapuerca.jpg" alt="bellapuerca">
-				<h5>Bella puerca&nbsp;</h5>
-				<a href="menu.html" class="boton">Ver en menú</a>
+		<div class="small-articles-container" id="slider-container">
+
+			<div class="smallarticles" id="slider">
+				<div class="slider__element">
+					<img src="images/bellapuerca.jpg" alt="bellapuerca">
+					<h5>Bella puerca&nbsp;</h5>
+					<a href="menu.html" class="boton">Ver en menú</a>
+				</div>
+				<div class="slider__element">
+					<img src="images/primavera.jpg" alt="primavera">
+					<h5>Festín&nbsp;</h5>
+					<a href="menu.html" class="boton">Ver en menú</a>
+				</div>
+				<div class="slider__element" >
+					<img src="images/festin.jpg" alt="festin">
+					<h5>Primavera&nbsp;</h5>
+					<a href="menu.html" class="boton">Ver en menú</a>
+				</div>
 			</div>
-			<div class="small-article">
-				<img src="images/primavera.jpg" alt="primavera">
-				<h5>Festín&nbsp;</h5>
-				<a href="menu.html" class="boton">Ver en menú</a>
-			</div>
-			<div class="small-article">
-				<img src="images/festin.jpg" alt="festin">
-				<h5>Primavera&nbsp;</h5>
-				<a href="menu.html" class="boton">Ver en menú</a>
-			</div>
+		</div>
+		<div class="nav">
+			<button id="button-left"><img src="images/larrow.svg" alt=""></button>
+			<button id="button-right"><img src="images/rarrow.svg" alt=""></button>
 		</div>
 	</div>
 	</section>
@@ -129,9 +136,9 @@
 			<div>
 		   		<img src="images/logo-png-sivarena.png" width="111" height="52" alt=""/>
 				<div class="links">
-					<div><a>HISTORIA</a></div>
-					<div><a>SUCURSALES</a></div>
-					<div><a>ORDEN</a></div>
+					<a href="nuestra_historia.html">HISTORIA</a>
+					<a href="sucursales.html">SUCURSALES</a>
+					<a href="carrito.html">ORDEN</a>
 				</div>
 			</div>
 		    <div class="contact">
@@ -141,12 +148,13 @@
 					<a href="https://www.instagram.com/sivarena/"><img src="images/instagram.svg" alt="instagram"/></a>
 					<a href="https://www.facebook.com/profile.php?id=100048409280680"><img src="images/facebook.svg" alt="facebook"/></a>
 			  	</div>
-			  <a class="boton">Ver menú completo</a>
+			  <a href="menu.html" class="boton">Ver menú completo</a>
 			</div>
 		</div>
 	</footer>
 	
 	<script src="./js/main.js"></script>
 	<script src="./js/menu.js"></script>
+	<script src="./js/slider.js"></script>
 </body>
 </html>
