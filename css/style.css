@@ -182,7 +182,6 @@ a.boton:hover{
 	z-index: 10;
 	top:0;
 	height: 96px;
-	pointer-events: none;
 }
 
 #logo-desktop{
