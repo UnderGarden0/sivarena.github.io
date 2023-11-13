@@ -2,7 +2,7 @@
     {
         "id": "jamon",
         "título": "Pizza de jamón",
-        "imagen": "images/productos/tradicionales/jamon.jpg",
+        "imagen": "images/productos/tradicionales/jamon.jpeg",
         "categoria": {
             "nombre": "Pizzas tradicionales",
             "id": "tradicionales"
@@ -12,7 +12,7 @@
     {
         "id": "pepperoni",
         "título": "Pizza de pepperoni",
-        "imagen": "images/productos/tradicionales/pepperoni.jpg",
+        "imagen": "images/productos/tradicionales/pepperoni.jpeg",
         "categoria": {
             "nombre": "Pizzas tradicionales",
             "id": "tradicionales"
@@ -22,7 +22,7 @@
     {
         "id": "champiñones",
         "título": "Pizza de champiñones",
-        "imagen": "images/productos/tradicionales/champiñones.jpg",
+        "imagen": "images/productos/tradicionales/champiñones.jpeg",
         "categoria": {
             "nombre": "Pizzas tradicionales",
             "id": "tradicionales"
@@ -32,7 +32,7 @@
     {
         "id": "margarita",
         "título": "Pizza de margarita",
-        "imagen": "images/productos/tradicionales/margarita.jpg",
+        "imagen": "images/productos/tradicionales/margarita.jpeg",
        "categoria": {
             "nombre": "Pizzas tradicionales",
             "id": "tradicionales"
@@ -42,7 +42,7 @@
     {
         "id": "queso",
         "título": "Pizza de queso",
-        "imagen": "images/productos/tradicionales/queso.jpg",
+        "imagen": "images/productos/tradicionales/queso.jpeg",
         "categoria": {
             "nombre": "Pizzas tradicionales",
             "id": "tradicionales"
@@ -52,7 +52,7 @@
     {
         "id": "coqueta",
         "título": "Pizza Coqueta",
-        "imagen": "images/productos/especiales/coqueta.jpg",
+        "imagen": "images/productos/especiales/coqueta.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -62,7 +62,7 @@
     {
         "id": "clasica",
         "título": "Pizza Clásica",
-        "imagen": "images/productos/especiales/clasica.jpg",
+        "imagen": "images/productos/especiales/clasica.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -82,7 +82,7 @@
     {
         "id": "reina-margarita",
         "título": "Pizza Reina Margarita",
-        "imagen": "images/productos/especiales/reina-margarita.jpg",
+        "imagen": "images/productos/especiales/reina-margarita.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -92,7 +92,7 @@
     {
         "id": "veggisima",
         "título": "Pizza Veggisima",
-        "imagen": "images/productos/especiales/veggisima.jpg",
+        "imagen": "images/productos/especiales/veggisima.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -102,7 +102,7 @@
     {
         "id": "grosera",
         "título": "Pizza Grosera",
-        "imagen": "images/productos/especiales/grosera.jpg",
+        "imagen": "images/productos/especiales/grosera.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -112,7 +112,7 @@
     {
         "id": "teniente-dan",
         "título": "Pizza Teniente Dan",
-        "imagen": "images/productos/especiales/teniente-dan.jpg",
+        "imagen": "images/productos/especiales/teniente-dan.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -122,7 +122,7 @@
     {
         "id": "bubba-gump",
         "título": "Pizza Bubba Gump",
-        "imagen": "images/productos/especiales/bubba-gump.jpg",
+        "imagen": "images/productos/especiales/bubba-gump.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -132,7 +132,7 @@
     {
         "id": "modera",
         "título": "Pizza Módera",
-        "imagen": "images/productos/especiales/modera.jpg",
+        "imagen": "images/productos/especiales/modera.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -142,7 +142,7 @@
     {
         "id": "don-peppe",
         "título": "Pizza Don Peppe",
-        "imagen": "images/productos/especiales/don-peppe.jpg",
+        "imagen": "images/productos/especiales/don-peppe.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -152,7 +152,7 @@
     {
         "id": "super-sivarena",
         "título": "Pizza Super Sivareña",
-        "imagen": "images/productos/especiales/super-sivareña.jpg",
+        "imagen": "images/productos/especiales/super-sivareña.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -162,7 +162,7 @@
     {
         "id": "maui",
         "título": "Pizza Maui",
-        "imagen": "images/productos/especiales/maui.jpg",
+        "imagen": "images/productos/especiales/maui.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -172,7 +172,7 @@
     {
         "id": "choripizza",
         "título": "Pizza Teniente Dan",
-        "imagen": "images/productos/especiales/teniente-dan.jpg",
+        "imagen": "images/productos/especiales/teniente-dan.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -182,7 +182,7 @@
     {
         "id": "hawaiana",
         "título": "Pizza Hawaiana",
-        "imagen": "images/productos/especiales/hawaiana.jpg",
+        "imagen": "images/productos/especiales/hawaiana.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -192,7 +192,7 @@
     {
         "id": "vieja-confiable",
         "título": "Pizza Vieja Confiable",
-        "imagen": "images/productos/especiales/vieja-confiable.jpg",
+        "imagen": "images/productos/especiales/vieja-confiable.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -202,7 +202,7 @@
     {
         "id": "pecadora",
         "título": "Pizza Pecadora",
-        "imagen": "images/productos/especiales/pecadora.jpg",
+        "imagen": "images/productos/especiales/pecadora.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -212,7 +212,7 @@
     {
         "id": "listo",
         "título": "Pizza No te pases de listo",
-        "imagen": "images/productos/especiales/listo.jpg",
+        "imagen": "images/productos/especiales/listo.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -222,7 +222,7 @@
     {
         "id": "hawaii-5",
         "título": "Pizza Hawaii 5-0",
-        "imagen": "images/productos/especiales/hawaii-5.jpg",
+        "imagen": "images/productos/especiales/hawaii-5.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -232,7 +232,7 @@
     {
         "id": "de-cancha",
         "título": "Pizza De Cancha",
-        "imagen": "images/productos/especiales/de-cancha.jpg",
+        "imagen": "images/productos/especiales/de-cancha.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -242,7 +242,7 @@
     {
         "id": "partisana-vegana",
         "título": "Pizza Partisana Vegana",
-        "imagen": "images/productos/especiales/partisana-vegana.jpg",
+        "imagen": "images/productos/especiales/partisana-vegana.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -252,7 +252,7 @@
     {
         "id": "bianca",
         "título": "Pizza Bianca",
-        "imagen": "images/productos/especiales/bianca.jpg",
+        "imagen": "images/productos/especiales/bianca.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -262,7 +262,7 @@
     {
         "id": "aquella",
         "título": "Pizza Aquella",
-        "imagen": "images/productos/especiales/aquella.jpg",
+        "imagen": "images/productos/especiales/aquella.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -272,7 +272,7 @@
     {
         "id": "parrillera",
         "título": "Pizza Parrillera",
-        "imagen": "images/productos/especiales/parrillera.jpg",
+        "imagen": "images/productos/especiales/parrillera.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -282,7 +282,7 @@
     {
         "id": "vivaldi",
         "título": "Pizza Vivaldi",
-        "imagen": "images/productos/especiales/vivaldi.jpg",
+        "imagen": "images/productos/especiales/vivaldi.jpeg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -290,9 +290,9 @@
         "precio": "10.50"
     },
     {
-        "id": "bocaccia",
-        "título": "Pizza A la Bocaccia",
-        "imagen": "images/productos/especiales/bocaccia.jpg",
+        "id": "focaccia",
+        "título": "Pizza A la Focaccia",
+        "imagen": "images/productos/especiales/foccacia.jpg",
         "categoria": {
             "nombre": "Pizzas especiales",
             "id": "especiales"
@@ -302,7 +302,7 @@
     {
         "id": "pan-ajo",
         "título": "Pan con ajo",
-        "imagen": "images/productos/entradas/pan-con-ajo.jpg",
+        "imagen": "images/productos/entradas/pan-con-ajo.jpeg",
         "categoria": {
             "nombre": "Entradas",
             "id": "entradas"
@@ -312,7 +312,7 @@
     {
         "id": "bruschetas-champiñones",
         "título": "Bruschetas con champiñones",
-        "imagen": "images/productos/entradas/bruschetas-champiñones.jpg",
+        "imagen": "images/productos/entradas/bruschetas-champiñones.jpeg",
         "categoria": {
             "nombre": "Entradas",
             "id": "entradas"
@@ -322,7 +322,7 @@
     {
         "id": "bruschetas-quesoazul",
         "título": "Bruschetas con queso azul",
-        "imagen": "images/productos/entradas/bruschetas-quesoazul.jpg",
+        "imagen": "images/productos/entradas/bruschetas-quesoazul.jpeg",
         "categoria": {
             "nombre": "Entradas",
             "id": "entradas"
@@ -332,7 +332,7 @@
     {
         "id": "bruschetas-tocino",
         "título": "Bruschetas de tocino",
-        "imagen": "images/productos/entradas/bruschetas-tocino.jpg",
+        "imagen": "images/productos/entradas/bruschetas-tocino.jpeg",
         "categoria": {
             "nombre": "Entradas",
             "id": "entradas"
@@ -342,7 +342,7 @@
     {
         "id": "bruschetas-capresse",
         "título": "Bruschetas Capresse",
-        "imagen": "images/productos/entradas/bruschetas-capresse.jpg",
+        "imagen": "images/productos/entradas/bruschetas-capresse.jpeg",
         "categoria": {
             "nombre": "Entradas",
             "id": "entradas"
@@ -352,7 +352,7 @@
     {
         "id": "soda",
         "título": "Soda en lata",
-        "imagen": "images/productos/entradas/soda.jpg",
+        "imagen": "images/productos/entradas/soda.jpeg",
         "categoria": {
             "nombre": "Bebidas sin alcohol",
             "id": "no-alcohol"
@@ -362,7 +362,7 @@
     {
         "id": "agua-mineral",
         "título": "Agua mineral",
-        "imagen": "images/productos/entradas/agua-mineral.jpg",
+        "imagen": "images/productos/entradas/agua-mineral.jpeg",
         "categoria": {
             "nombre": "Bebidas sin alcohol",
             "id": "no-alcohol"
@@ -372,7 +372,7 @@
     {
         "id": "te-helado",
         "título": "Té helado",
-        "imagen": "images/productos/entradas/te-helado.jpg",
+        "imagen": "images/productos/entradas/te-helado.jpeg",
         "categoria": {
             "nombre": "Bebidas sin alcohol",
             "id": "no-alcohol"
@@ -382,7 +382,7 @@
     {
         "id": "refresco",
         "título": "Refresco natural",
-        "imagen": "images/productos/entradas/refresco.jpg",
+        "imagen": "images/productos/entradas/refresco.jpeg",
         "categoria": {
             "nombre": "Bebidas sin alcohol",
             "id": "no-alcohol"
@@ -392,7 +392,7 @@
     {
         "id": "kombucha",
         "título": "Kombucha",
-        "imagen": "images/productos/entradas/kombucha.jpg",
+        "imagen": "images/productos/entradas/kombucha.jpeg",
         "categoria": {
             "nombre": "Bebidas sin alcohol",
             "id": "no-alcohol"
@@ -402,7 +402,7 @@
     {
         "id": "agua-botella",
         "título": "Botella de agua",
-        "imagen": "images/productos/entradas/agua-botella.jpg",
+        "imagen": "images/productos/entradas/agua-botella.jpeg",
         "categoria": {
             "nombre": "Bebidas sin alcohol",
             "id": "no-alcohol"
@@ -412,7 +412,7 @@
     {
         "id": "regia",
         "título": "Regia Chola",
-        "imagen": "images/productos/entradas/regia.jpg",
+        "imagen": "images/productos/entradas/regia.jpeg",
         "categoria": {
             "nombre": "Bebidas con alcohol",
             "id": "alcohol"
@@ -422,7 +422,7 @@
     {
         "id": "pilsener",
         "título": "Pilsener Chola",
-        "imagen": "images/productos/entradas/pilsener.jpg",
+        "imagen": "images/productos/entradas/pilsener.jpeg",
         "categoria": {
             "nombre": "Bebidas con alcohol",
             "id": "alcohol"
@@ -432,7 +432,7 @@
     {
         "id": "golden",
         "título": "Golden Chola",
-        "imagen": "images/productos/entradas/golden.jpg",
+        "imagen": "images/productos/entradas/golden.jpeg",
         "categoria": {
             "nombre": "Bebidas con alcohol",
             "id": "alcohol"
@@ -442,7 +442,7 @@
     {
         "id": "golden-extra",
         "título": "Golden Extra Chola",
-        "imagen": "images/productos/entradas/golden-extra.png",
+        "imagen": "images/productos/entradas/golden-extra.jpeg",
         "categoria": {
             "nombre": "Bebidas con alcohol",
             "id": "alcohol"
@@ -453,7 +453,7 @@
     {
         "id": "suprema",
         "título": "Suprema",
-        "imagen": "images/productos/entradas/suprema.jpg",
+        "imagen": "images/productos/entradas/suprema.jpeg",
         "categoria": {
             "nombre": "Bebidas con alcohol",
             "id": "alcohol"
@@ -463,7 +463,7 @@
     {
         "id": "corona",
         "título": "Corona Chola",
-        "imagen": "images/productos/entradas/corona.jpg",
+        "imagen": "images/productos/entradas/corona.jpeg",
         "categoria": {
             "nombre": "Bebidas con alcohol",
             "id": "alcohol"
@@ -473,7 +473,7 @@
     {
         "id": "michelob-ultra",
         "título": "Michelob Ultra",
-        "imagen": "images/productos/entradas/michelob-ultra.jpg",
+        "imagen": "images/productos/entradas/michelob-ultra.jpeg",
         "categoria": {
             "nombre": "Bebidas con alcohol",
             "id": "alcohol"
@@ -483,7 +483,7 @@
     {
         "id": "michelada",
         "título": "Mix de michelada",
-        "imagen": "images/productos/entradas/michelada.jpg",
+        "imagen": "images/productos/entradas/michelada.jpeg",
         "categoria": {
             "nombre": "Bebidas con alcohol",
             "id": "alcohol"
