@@ -621,6 +621,10 @@ main #carrito-acciones-comprar:hover{
 	gap: 10px;
 }
 
+footer a{
+	color: var(--white)
+}
+
 @media screen and (max-width: 1000px){
 
 		/* ---HEADER--- */
